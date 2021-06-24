@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Samsung </string>
+    <string name="send_message">Send</string>
+    <string name="recive_message">Recive</string>
+    <string name="delet_message">Delete</string>
+</resources>
